@@ -9,10 +9,10 @@ summary: Obtained in University of Chinese Academy of Sciences
 projects: []
 
 # Date published
-date: '2021-07'
+date: '2021-07-13'
 
-# Date updated
-# lastmod: '2020-07-13T00:00:00Z'
+#Date updated
+lastmod: '2021-07-13'
 
 # Is this an unpublished draft?
 draft: false
