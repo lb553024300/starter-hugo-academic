@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Bing Liang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+- name: Electric Power Research Institute, China Southern Power Grid
+  url: http://www.sepri.csg.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include multimedia communication and networking, video transmission, edge computing, optimization theory  and machine learning.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Video Transmission
+- Edge Computing
+- Optimization Theory
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: PhD in Computer Science
+    institution: Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)
+    year: 2022
+  - course: MEng in Electronics and Communications Engineering
+    institution: North China Electric Power University
+    year: 2017
+  - course: BSc in Electronics and Communications Engineering
+    institution: Heilongjiang University
+    year: 2014
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,16 +43,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:lb553024300@126.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=zh-CN&user=_LJ1IOIAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/lb553024300
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -70,8 +71,7 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I’m currently a researcher at Electric Power Research Institute, China Southern Power Grid(CSG), Guangzhou, China. Before joining CSG, I got my PhD degree at Institute of Computing Technology (ICT), Chinese Academy of Sciences in 2022.
+My current research interests include multimedia computing, edge computing, and machine learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
