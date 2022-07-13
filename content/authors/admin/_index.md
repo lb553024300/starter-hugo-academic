@@ -71,7 +71,7 @@ email: ''
 highlight_name: true
 ---
 
-I’m currently a researcher at Electric Power Research Institute, China Southern Power Grid(CSG), Guangzhou, China. Before joining CSG, I got my PhD degree at Institute of Computing Technology (ICT), Chinese Academy of Sciences in 2022.
+I’m currently a researcher at Electric Power Research Institute, China Southern Power Grid(CSG), Guangzhou, China. Before joining CSG, I got my PhD degree from Institute of Computing Technology (ICT), Chinese Academy of Sciences in 2022.
 My current research interests include multimedia computing, edge computing, and machine learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
