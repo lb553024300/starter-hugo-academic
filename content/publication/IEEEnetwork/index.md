@@ -1,23 +1,29 @@
 ---
-title: "Multiuser computation offloading for edge-cloud collaboration using submodular optimization"
+title: "Visual IoT: Enabling internet of things visualization in smart cities"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
 - Wen Ji
+- Jingce Xu 
+- Hexiang Qiao
+- Mengdi Zhou
+- admin
 
 # Author notes (optional)
 author_notes:
 - "1"
 - "2"
+- "3"
+- "4"
+- "5"
 
-date: "2020-10-30T00:00:00Z"
+date: "2019-03-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-10-01T00:00:00Z"
+publishDate: "2019-03-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,10 +32,10 @@ publishDate: "2020-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal on Communications*
-publication_short: In *Journal on Communications*
+publication: In *IEEE Network*
+publication_short: In *IEEE Network*
 
-abstract: A computation offloading scheme based on edge-cloud computing was proposed to improve the system utility of multiuser computation offloading. This scheme improved the system utility while considering the optimization of edge-cloud resources. In order to tackle the problems of computation offloading mode selection and edge-cloud resource allocation, a greedy algorithm based on submodular theory was developed by fully exploiting the computing and commu- nication resources of cloud and edge. The simulation results demonstrate that the proposed scheme effectively reduces the delay and energy consumption of computing tasks. Additionally, when computing tasks are offloaded to edge and cloud from devices, the proposed scheme still maintains stable system utilities under ultra-limited resources.
+abstract: With advanced IoT, visualization has become an integral part of smart city services in our daily life ranging from building management, property maintenance, autonomous vehicles, healthcare, and shopping to tourism. In visual IoT, visualized sensors like cameras are a key component to smart cities. However, requirements of large bandwidth for visual data and the gap between computation and communication challenge the development of visual IoT. This article presents a systemic analysis for the requirements of visual IoT from the perspective of smart cities. Moreover, this study proposes a novel visual IoT architecture to improve end-to-end performance of next generation smart cities, namely A-VIoT. The proposed system includes six key components :intelligent awareness to sense complex environments, smart video analysis for reducing the amount of visual data, software defined video to generate elastic visual streams, flexible controls to produce optimal adaptation, economic transmission to enhance utilization of resource, and crowd coordination to improve the performance of cooperation. Finally, several open issues are identified to provide directions for further research, particularly in smart city applications.
 
 # Summary. An optional shortened abstract.
 
@@ -72,7 +78,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+slides: example
 ---
 
 {{% callout note %}}
