@@ -3,7 +3,7 @@ title: ICT Excellence Award scholarship
 subtitle: Obtained in Institute of Computing Technology
 
 # Summary for listings and search engines
-summary: Obtained in University of Chinese Academy of Sciences
+summary: Obtained in Institute of Computing Technology,CAS
 
 # Link this post with a project
 projects: []
