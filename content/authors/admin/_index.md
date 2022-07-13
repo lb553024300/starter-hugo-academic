@@ -55,7 +55,7 @@ social:
     link: https://github.com/lb553024300
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/%E5%86%B0-liangbing-%E6%A2%81-670b0a140/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
