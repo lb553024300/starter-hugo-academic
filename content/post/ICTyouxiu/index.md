@@ -3,7 +3,7 @@ title: 2019-2020 Merit Student
 subtitle: Obtained in University of Chinese Academy of Sciences
 
 # Summary for listings and search engines
-summary: 
+summary: Obtained in University of Chinese Academy of Sciences
 
 # Link this post with a project
 projects: []
