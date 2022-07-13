@@ -33,7 +33,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE Wireless Communications*
-publication_short: In *IWC*
+publication_short: In *IEEE Wireless Communications*
 
 abstract: Fog computing has emerged as a unifying platform to provide computing, communication, and storage for a variety of mobile applications. That helps achieve high bandwidth, high intelligence, low latency, and low energy consumption in handling massive networking devices and emerging rich multimedia services in 5G networks. Current prominence and future promises are changing from the Internet of Things (IoT) to the Internet of Everything (IoE), which is a union of people, process, data, and things. However, the development of fog radio access networks (F-RANs) is challenged by the diversity of IoE, ultra-high-definition videos on demand from users, and low-latency requirement of heterogeneous IoT devices. In this article, we present an architecture of visual IoE (V-IoE) in F-RANs. We systemically analyze the key challenges of V-IoE from the perspective of F-RANs, and propose a crowd V-IoE architecture. Through experimental results, we demonstrate that our proposed architecture exhibits better performance with lower bandwidth requirement, lower energy consumption, and lower latency in F-RANs. Finally, we conclude with a discussion of potential directions.
 
