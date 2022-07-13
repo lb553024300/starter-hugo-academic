@@ -10,8 +10,8 @@ headless: false
 weight: 100
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
-subtitle:
+#title: 'Accomplish&shy;ments'
+#subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
