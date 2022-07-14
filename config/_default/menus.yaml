@@ -18,13 +18,13 @@ main:
   #   weight: 60
   - name: Publications
     url: '#publications'
-    weight: 20
+    weight: 40
   - name: News
     url: '#talks'
     weight: 30
   - name: Awards
     url: '#posts'
-    weight: 40
+    weight: 20
   - name: Contact
     url: '#contact'
     weight: 40
