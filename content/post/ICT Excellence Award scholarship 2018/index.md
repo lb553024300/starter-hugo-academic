@@ -9,10 +9,10 @@ summary: Obtained in Institute of Computing Technology,CAS
 projects: []
 
 # Date published
-date: '2021-07-13'
+date: '2021-07-13T00:00:00Z'
 
 #Date updated
-lastmod: '2021-07-13'
+lastmod: '2021-07-13T10:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
