@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 100
 
 title: Contact
 subtitle:
@@ -35,8 +35,8 @@ content:
     country: China
     country_code: CHN
   coordinates:
-    latitude: '23.173633'
-    longitude: '113.440828'
+    latitude: '23.173206832441565'
+    longitude: '113.44027564767211'
   directions: The Building 3 and on Floor 3
   office_hours:
     - 'Monday to Friday 09:00 to 17:00'
