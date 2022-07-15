@@ -35,10 +35,10 @@ image:
   focal_point: Right
 
 links:
-  - icon: twitter
+  - icon: weibo
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://m.weibo.cn/profile/1313971921
 url_code: ''
 url_pdf: ''
 url_slides: ''
