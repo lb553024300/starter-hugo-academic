@@ -35,8 +35,8 @@ content:
     country: China
     country_code: CHN
   coordinates:
-    latitude: '23.174773932250325'
-    longitude: '113.44560606449629'
+    latitude: '23.172481892909186'
+    longitude: '113.44122433565997'
   directions: The Building 3 and on Floor 3
   office_hours:
     - 'Monday to Friday 09:00 to 17:00'
